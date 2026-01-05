@@ -57,7 +57,7 @@ Le projet simule un environnement d’entreprise réel intégrant :
 La sécurité du réseau repose sur la mise en place d’un **VPN** entre le backbone et les
 différents départements afin d’assurer la confidentialité des communications internes.
 
-📘 Détails : [`securite.md`](./securite.md)
+📘 Détails : [`Securite.md`](./Securite.md)
 
 ---
 
