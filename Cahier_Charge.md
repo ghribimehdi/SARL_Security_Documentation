@@ -2,7 +2,7 @@ Cahier des charges
 Projet : Conception et déploiement d’une infrastructure réseau distribuée
 ________________________________________
 1. Présentation de l’entreprise
-TechSolutions SARL est une entreprise spécialisée dans le développement de solutions numériques. Elle s’appuie sur plusieurs départements fonctionnels afin d’assurer ses activités : - Web / Marketing - Supervision / IT - Gestion / Base de données - Partage / Collaboration interne
+TechSolutions SARL est une entreprise spécialisée dans le développement de solutions numériques. Elle s’appuie sur plusieurs départements fonctionnels afin d’assurer ses activités : - Web / Marketing - Supervision / IT - Gestion / Base de données - Partage / Collaboration interne - Securite
 Dans un contexte de croissance et de professionnalisation, l’entreprise souhaite moderniser son infrastructure informatique afin de répondre aux exigences actuelles de disponibilité, de sécurité et d’évolutivité.
 ________________________________________
 2. Contexte et objectifs du projet
