@@ -9,15 +9,13 @@ ________________________________________
 Utilisé pour la conception de la topologie réseau, la configuration des routeurs et la simulation du backbone OSPF.
 •	VirtualBox / VMware
 Utilisé pour l’hébergement des machines virtuelles (serveurs et postes clients).
-•	Packet Tracer (optionnel)
-Utilisé à des fins pédagogiques pour certains tests ou validations de concepts.
 ________________________________________
 3. Équipements réseau
 3.1 Routeurs
 •	Routeurs virtuels (Cisco / IOS-like)
 o	Routeur Backbone (nœud principal)
 o	Routeur Internet (R-Internet)
-o	Routeurs locaux des départements (RZ-1 à RZ-4)
+o	Routeurs locaux des départements (RZ-1 à RZ-6)
 Rôle : - Routage dynamique OSPF - Interconnexion des départements - Mise en œuvre du NAT et du VPN
 ________________________________________
 3.2 Switchs
