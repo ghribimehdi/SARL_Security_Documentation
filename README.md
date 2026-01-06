@@ -26,7 +26,7 @@ Le projet simule un environnement d’entreprise réel intégrant :
 - Routeur Internet avec NAT
 - VPN pour la sécurisation des flux internes
 
-📸 *Schémas et captures disponibles dans le dossier `images/`*
+📸 *Schémas et captures disponibles dans le dossier `documentation/`*
 
 ---
 
@@ -38,7 +38,7 @@ Le projet simule un environnement d’entreprise réel intégrant :
 | `materiels.md` | Matériels et outils utilisés |
 | `topologie.md` | Description de la topologie réseau |
 | `securite.md` | Sécurité réseau (VPN) |
-| `images/` | Captures GNS3 et schémas |
+| `documentation/` | Captures GNS3 et schémas |
 
 ---
 
