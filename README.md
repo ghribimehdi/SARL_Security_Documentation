@@ -75,4 +75,4 @@ Projet académique – sous licence MIT.
 
 
 ```md
-![Topologie réseau](images/topologie.png)
+![Topologie réseau](documentation/topologie.png)
