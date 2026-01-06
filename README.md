@@ -68,11 +68,8 @@ différents départements afin d’assurer la confidentialité des communication
 ---
 
 ## 📸 Aperçu
-*(Ajouter ici une capture principale de la topologie)*
+![Topologie réseau](documentation/topologie.png)
+
 
 ## 📜 Licence
 Projet académique – sous licence MIT.
-
-
-```md
-![Topologie réseau](documentation/topologie.png)
